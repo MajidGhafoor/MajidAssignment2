@@ -1,0 +1,7 @@
+read mark1, mark2, mark3, mark4
+if mark1>=90 print"A Grade"
+if mark2>=90 print"A Grade"
+if mark3>=90 print"A Grade"
+if mark4>=90 print"A Grade"
+total- mark1+mark2+mark3+mark4
+print total
