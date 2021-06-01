@@ -5,3 +5,7 @@ if mark3>=90 print"A Grade"
 if mark4>=90 print"A Grade"
 total- mark1+mark2+mark3+mark4
 print total
+cgpa= total/4
+print cgpa
+if total>=90 
+print" 100% scholorship"
